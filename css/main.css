@@ -5,6 +5,7 @@
 html,
 body {
 	height: 100%;
+	
 }
 
 body {
@@ -928,7 +929,7 @@ ul#nav li.current a:after {
 /* =================================================================== */
 
 #hero {
-	background: #0F1215 url(../images/wallpaper.jpg) no-repeat;
+	background: #0F1215 url(../images/Wallpaper.jpg) no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
