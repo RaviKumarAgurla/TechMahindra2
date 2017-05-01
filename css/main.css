@@ -929,7 +929,8 @@ ul#nav li.current a:after {
 /* =================================================================== */
 
 #hero {
-	background: #0F1215 url("Wallpaper.jpg") no-repeat;
+	background: #0F1215 url("wallpaper.jpg") no-repeat;
+	background-image: url("Wallpaper.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
