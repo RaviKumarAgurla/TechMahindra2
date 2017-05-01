@@ -1,0 +1,11 @@
+<web-app>   
+<servlet>  
+<servlet-name>Mail</servlet-name>  
+<servlet-class>Mail</servlet-class>  
+</servlet>  
+  
+<servlet-mapping>  
+<servlet-name>Mail</servlet-name>  
+<url-pattern>/mail</url-pattern>  
+</servlet-mapping>
+</web-app>  
